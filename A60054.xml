@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short answer to a large paper, intituled, A continuation of brief and modest reflections, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60054</idno>
+            <idno type="STC">Wing S3558B</idno>
+            <idno type="STC">ESTC R221191</idno>
+            <idno type="EEBO-CITATION">99832546</idno>
+            <idno type="PROQUEST">99832546</idno>
+            <idno type="VID">37020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2060:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short answer to a large paper, intituled, A continuation of brief and modest reflections, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A reply to: A continuation of brief and modest reflections, &amp;c.</note>
+                  <note>Imperfect; stained and cropped with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Continuation of brief and modest reflections, &amp;c. --  Controversial literature --  Early works to 1800.</term>
+               <term>Religious tolerance --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37020:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Short Anſwer to a Large Paper,</hi> INTITULED, <hi>A Continuation of Brief and Modest Reflections,</hi> &amp;c.</head>
+            <p>OUR buſy Author, <hi>having got the good happ of</hi> 3 <hi>or</hi> 4 <hi>hours time to write,</hi> upon the 29 of <hi>May,</hi> the day after the Parliament had entred into a moſt happy Revolution-Reſolve, compre<g ref="char:EOLhyphen"/>hending the Security of Religion and Liberty; he retires, labouring under an overflow of the Gall, and mingling Choler with his Ink, ſquirts it at random upon this larger Paper, called, <hi>A Conti<g ref="char:EOLhyphen"/>nuation of his Reflections for Indulgence,</hi> &amp;c. Wherein he makes many a ſad Blot and Blunder, too many to be here mentioned, but which eve<g ref="char:EOLhyphen"/>ry Reader muſt ſee and be amazed at upon the firſt reading; ſo that the beſt Anſwer is, to propagate a Paper that fully anſwers and expoſes it ſelf: For if a Madman will ſpit againſt the Sky, the drivel muſt fall back upon his own Face.</p>
+            <p>He begins with his former <hi>Plan of the State of the Nation,</hi> wherein every thing is moſt groſly miſtated. His 400 <hi>Subſcriptions in</hi> Glaſgow is anſwered by a Defiance to name above 3 or 4 Families in the whole Town, that abſented from Church upon Epiſcopal Principles: And his <hi>prime Inhabitants</hi> ſo affected, are known to be the very profligat Scum of that Town, a very few excepted. And as for the Towns and Shires of the North, how oft ſhall this inconteſtable Truth be told him, That the People in the North were in profound quiet; That they did and do generally join with the eſtabliſhed Worſhip; That they ſeek no Tolera<g ref="char:EOLhyphen"/>tion; That nothing hath produced a ſhew of Diſaffection or Diſſatisfa<g ref="char:EOLhyphen"/>ction among them, but the late factious Traffiqueing of ſome Men, who manifeſtly drive at further Deſigns.</p>
+            <p>Next he comes to <hi>Tenets,</hi> That the <hi>Presbyterians beg'd and preacht up Indulgence,</hi> which is falſe; and ſo all that is built upon it, throw the Paper, falls to the Ground. It was granted unſought, tho' never by an Act of Parliament, and ſome of the Psesbyterians thought they had reaſon to improve it: As he who has a good Title to an Eſtate, takes a Penſion without renouncing his Right to the whole: But it is well known, that Toleration was never beg'd nor preacht up by Presbyterians in the har<g ref="char:EOLhyphen"/>deſt Times.</p>
+            <pb n="2" facs="tcp:37020:2"/>
+            <p>The Author, mild Man, <hi>juſtifies not the Severities of thoſe Times, no, he condemns them, he owns them not,</hi> pag. 4. yet he diſcovers a mighty liquoriſh Tooth towards them. For, ſays he, <hi>produce me one Sentence, where one perſon was condemn'd, but on what was Treaſon and Leſe Majeſty by Law, and by Law now as well as then; and I ſhall pay the Clerk and 40 lib. beſides.</hi> Now, thought I, if he be a Gentleman who writes this, 'tis a Loſs he hath not affixed his Name, for then ſhould I, ſaving him Clerks Fees, have gain'd ſome Hundreds of 40 Pounds, by laying be<g ref="char:EOLhyphen"/>fore him the 18. Act of the 2d Seſſ. of K. <hi>W</hi>'s Parl. 4 <hi>July</hi> 1690.</p>
+            <p>But then I began to conſider, that I ſhould loſe my Pains; for this Writer is certainly ſome antiquated Politician, that had wont oraculouſly to dictate, who has been many Years aſleep, and now being awak'ned and his Head giddy by reaſon of ſome elevation, would turn Frappiſh and take it mightily in Dudgeon, if his Maggots be not entertained juſt as he vents them. And therefore 'tis e'ne beſt to let him alone to risk the Reputation of his Brain by the angry Nonſenſe of <hi>page 5,</hi> and to endanger the ſafety of his Head by impeaching the Claim of Right <hi>pag.</hi> 9. as if the ſeveral Articles thereof were not of equal force, and ſuch of them as do not pleaſe our Author, may be not only touch'd but cut off. Which, if true, and if the one half of the Nation be Epiſcopal as he rec<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ns, then the other half (and perhaps a good part of the Epiſco<g ref="char:EOLhyphen"/>pal half too) are yet under the Condemnation of the Law, according to his Poſition, <hi>That what was Treaſon by Law then, is ſo by Law now.</hi> I doubt not but the <hi>Parliament</hi> will ſo far advert to their own and the Nati<g ref="char:EOLhyphen"/>on's Security (I ſay not to call this Author to account, tho they knew him but) to declare it Treaſon to impugn the Revolution or Claim of Right, and to conſider how well Men of theſe Principles do merit a Toleration, &amp; in what the granting of it to them muſt iſſue. Eſpecially conſidering, that theſe of the National eſtabliſht Government and Worſhip are ſtill in their Stile <hi>a certain Sect and Sett of People,</hi> page 12. and the late Prelate <hi>Pa<g ref="char:EOLhyphen"/>terſon,</hi> notwithſtanding the Laws aboliſhing Prelacy, is ſtill with them, <hi>the preſent Arch-biſhop of</hi> Glaſgow, <hi>page</hi> 11.</p>
+            <p>Our Author's Invention being drain'd of <hi>Balmy Anodine</hi> Arguments, he falls a nibbling at ſome Prints againſt Toleration, the Writers of which, if they have leaſure, may ſoon give him a rapp over the Fingers or his pains; yea moſt of what he ſays or hints, is ſolidly anſwered
+<pb n="3" facs="tcp:37020:2"/>already, in the Appendix to the ſecond Edition of the <hi>Gentleman's Let<g ref="char:EOLhyphen"/>ter,</hi> in Anſwer to <hi>The Caſe,</hi> &amp;c. But he has caſt his Thoughts (if he had any at all, beſide Sallles of impotent Paſſion) ſo aukwardly and illo<g ref="char:EOLhyphen"/>gically into <hi>Quaere's, Ergo's</hi> and <hi>Confirmatur's,</hi> that a Man muſt be very idle to ſpend time in diverting himſelf with ſuch ſtuff. I only notice tho ſtrange Ground he lays for a Toleration, <hi>pag.</hi> 6. at the cloſe. Some Men deſire a Toleration; <hi>Ergo</hi> they ſhould have it. If I hit not his Meaning, I crave his pardon; for I can find no other Meaning in what he ſays: Now I ever thought, Toleration had been the <hi>Gentle Balm</hi> and <hi>Anodine</hi> of tender Conſciences, and not the Gratification of irregu<g ref="char:EOLhyphen"/>lar Deſires, to increaſe their Irregularity. And I was ever perſwaded (and I hope the Parliament is ſo) that no wiſe State ever thought it Prudence to give a Toleration to theſe who can, without hurting their Conſciences, comply and join with the National Eſtabliſhment; of which the Epiſcopalians have given ſuch practical and profeſſional De<g ref="char:EOLhyphen"/>monſtration, that it might make <hi>the Man who laugh'd but once, laugh a<g ref="char:EOLhyphen"/>gain,</hi> to ſee how they wriggle and mumble upon this point. I ſhall be far from ſaying, That the Presbyterians are all Saints, or the Epiſ<g ref="char:EOLhyphen"/>copalians all Devils, there are good and bad on both ſides: But I'm confident he who ſays, a <hi>Scots</hi> Epiſcopal Conſcience is ſtraitned in join<g ref="char:EOLhyphen"/>ing with Presbyterian Worſhip, or that Prelatiſts can deſire Toleration for any other end, but either to weaken and o'return the Eſtabliſhment by the Revolution, or to give looſe Reins to all manner of Licentiouſ<g ref="char:EOLhyphen"/>neſs, may after that, ſay or unſay what he will.</p>
+            <p>As our Author does every where miſtake and miſrepreſent the Caſe, which has nothing to do with the abſtract Queſtion about Toleration to truly tender Conſciences: And as for the Miniſters, they are under <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o manner of Penalty (<hi>pag.</hi> 6.) but the <hi>lucrum ceſſans</hi> of wanting their Stipends, which our Author (as was hinted in the <hi>Short Anſwer</hi>) if he be a Man of Influence, may remeid or compenſate, by procuring <hi>juſt Maintenance</hi> for them, at a cheaper rate than that of imbroiling a Na<g ref="char:EOLhyphen"/>tion. So he does moſt diſingenuouſly inſinuat, <hi>pag.</hi> 9. That to oppoſe a Toleration is to quarrel <hi>the Queens maintaining of any in what they en<g ref="char:EOLhyphen"/>joy according to Law,</hi> and what is <hi>enacted by the Parliament Anno</hi> 1695. Is not the Protection of that Act given in favours of theſe who are du<g ref="char:EOLhyphen"/>ly qualified, and who are in poſſeſſion? and who doth moleſt them?
+<pb n="4" facs="tcp:37020:3"/>But what is this to the Toleration crav'd for theſe who are not in poſ<g ref="char:EOLhyphen"/>ſeſſion, and that without any Qualification at all?</p>
+            <p>The Draught now preſented to the Parliament, differs little from the Printed Draught, with Remarks to which I refer. I ſhall only ob<g ref="char:EOLhyphen"/>ſerve upon it,</p>
+            <p n="1">1. It pretends Eaſe to Proteſtant Subjects, as if we had as many Sects and Parties of them, as <hi>England</hi> or <hi>Holland;</hi> whereas it's manifeſt, the Prelatiſts only, and ſuch of them as are Jacobites, are intended, to undermine the Revolution, and be a Reſerve for the happy Days in proſpect.</p>
+            <p n="2">2. They are to give no Teſt either of Orthodoxy or Loyalty; and how ſhall it be known that they are Proteſtants and not Incendiaries? Or doth any State on Earth Tolerat People, whoſe Principles they know not, and who do not Qualifie themſelves to the Civil Goverment?</p>
+            <p n="3">3. <hi>It ſhall be lawful for them to aſſemble with their Miniſters for Divine Worſhip, in any Houſes they ſhall appoint for theſe Religious Exerciſes in all Towns and Pariſhes in this Kingdom.</hi> Now I ſuppoſe the Quakers, who call themſelves Proteſtants and have their Miniſters too, ſhould come to be the majority of a Pariſh, and that Pariſh fall vacant, and <hi>William Penn</hi> their Advocat, might he not by this Act tell them, Dear Friends, The Church is but a Steeple-houſe, and now it is empty, let us enter and take poſſeſſion in behalf of Friends, to keep out Hirelings and <hi>Baal</hi>'s Prieſts; for here is a Law authorizing us ſo to do. And may not an Epiſcopal Heretor or two, wiſely make the ſame Improve<g ref="char:EOLhyphen"/>ment, in any Town or Pariſh, of ſuch a Toleration</p>
+            <p n="4">4. All <hi>Diſturbers of their Perſons, or the full exerciſe of their Miniſterial Function, and Meetings,</hi> are to be <hi>Puniſhed by the Privy Council, and other Judges competent.</hi> What Work muſt this make in ſome places? But the Seditious and diſturbing Doct<g ref="char:EOLhyphen"/>rines of the Tolerated, are to be Puniſhed <hi>by the Privy Council</hi> only. To which I ſhall only ſay, that if Her Majeſty and the Council, were as much Presbyterian now as K. <hi>Charles</hi> and his Council were Epiſcopal, both the Toleration and the Terms of it might be offered with a better Grace.</p>
+            <p>To conclude, I cannot but notice a Learned Reply given by our haſty angry Au<g ref="char:EOLhyphen"/>thor <hi>page</hi> 6. in theſe Words, <hi>The 2d there; is anſwered by NO.</hi> And whereas he pro<g ref="char:EOLhyphen"/>miſes more, <hi>page</hi> 10, by the next occaſion. I muſt take leave to tell him, That unleſs what he further ſays give a fairer ſtate of the Caſe, and be ſupported by better, at leaſt more intelligible, Arguments, all the raw Nonſenſical Stuff he can further Print, ſhall be anſwered after the ſhorteſt manner, by NO. As we can have no fear but that the high Court of Parliament, will anſwer all the Models of his Toleration, let him turn it into as many <hi>Proteus</hi>-ſhapes as he will, by a Wiſe, Safe and true Proteſtant NO</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
